@@ -1,4 +1,5 @@
-# Calcite Coal Ore
+
+![Calcite Coal Ore](about:blank)# Calcite Coal Ore
 Calcite Coal Ore is one of a few ore variants added in v1.0. It is found in 
 
 ## Obtaining
