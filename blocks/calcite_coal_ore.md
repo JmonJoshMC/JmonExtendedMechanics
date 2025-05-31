@@ -1,5 +1,5 @@
 
-# Calcite Coal Ore ![Calcite Coal Ore](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/doc%20assets/JEM-5.png)
+# Calcite Coal Ore ( ![Calcite Coal Ore](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/doc%20assets/JEM-5.png) )
 Calcite Coal Ore is one of a few ore variants added in v1.0. It is found in 
 
 ## Obtaining
