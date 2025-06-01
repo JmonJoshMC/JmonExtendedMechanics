@@ -42,4 +42,4 @@
 ### Structures/Features
 - None Yet...
 ### Other Changes
-- Gravel Recipe
+- [Gravel Recipe](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/other/gravel_from_flint.md)
