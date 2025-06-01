@@ -1,5 +1,5 @@
 # Polished Pumice ( ![Polished Pumice](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/doc%20assets/JEM-8.png) )
-Polished Pumice is one of many building blocks added in v1.0. It is crafted using [Pumice](about:blank)
+Polished Pumice is one of many building blocks added in v1.0. It is crafted using [Pumice](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/pumice.md)
 
 ## Obtaining
 - Crafting
