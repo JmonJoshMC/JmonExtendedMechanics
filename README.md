@@ -8,7 +8,7 @@
 - [Calcite Coal Ore](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/calcite_coal_ore.md)
 - [Calcite Iron Ore](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/calcite_iron_ore.md)
 - [Pumice](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/pumice.md)
-- Polished Pumice
+- [Polished Pumice](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/polished_pumice.md)
 - Polished Pumice Bricks
 - Irradiated Nylium
 - Irradiated Netherrack
