@@ -16,7 +16,7 @@
 - [Polished Irradiated Netherrack Bricks](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/polished_irradiated_netherrack_bricks.md)
 
 ### Items
-- [Copper Armor]()
+- [Copper Armor](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/armor/copper.md)
 
 ### Mobs/Entities
 - None Yet...
