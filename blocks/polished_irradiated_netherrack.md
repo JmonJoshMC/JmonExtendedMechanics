@@ -1,5 +1,5 @@
 # Polished Irradiated netherrack ( ![Polished Irradiated Netherrack](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/doc%20assets/JEM-25.png) )
-Irradiated netherrack is found in [Irradiated Slaglands]() and is obtainable through wandering traders.
+Irradiated netherrack is a decorative block found in [Irradiated Slaglands]().
 ## Obtaining
 ### Crafting
 ![recipe](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/doc%20assets/JEM-18.png)
