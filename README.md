@@ -16,10 +16,7 @@
 - [Polished Irradiated Netherrack Bricks](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/polished_irradiated_netherrack_bricks.md)
 
 ### Items
-- Copper Helmet
-- Copper Chestplate
-- Copper Leggings
-- Copper Boots
+- [Copper Armor]()
 
 ### Mobs/Entities
 - None Yet...
@@ -36,8 +33,8 @@
   - Infested Deepslate
 
 ### Biomes
-- Geode Caves
-- Irradiated Slaglands
+- [Geode Caves]()
+- [Irradiated Slaglands]()
 
 ### Structures/Features
 - None Yet...
