@@ -11,9 +11,9 @@
 - [Polished Pumice](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/polished_pumice.md)
 - [Polished Pumice Bricks](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/polished_pumice_bricks.md)
 - [Irradiated Nylium](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/irradiated_nylium.md)
-- [Irradiated Netherrack]()
-- [Polished Irradiated Netherrack]()
-- [Polished Irradiated Netherrack Bricks]()
+- [Irradiated Netherrack](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/irradiated_netherrack.md)
+- [Polished Irradiated Netherrack](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/polished_irradiated_netherrack.md)
+- [Polished Irradiated Netherrack Bricks](https://github.com/JmonJoshMC/JmonExtendedMechanics/blob/main/blocks/polished_irradiated_netherrack_bricks.md)
 
 ### Items
 - Copper Helmet
